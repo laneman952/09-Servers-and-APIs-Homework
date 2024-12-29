@@ -2,7 +2,7 @@
 Weather Service
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
   ## Description
-  This is a project that allows you input a city and recieve current weather forecasts.
+  This is a project that allows you input a city and receive current weather forecasts.
   ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
